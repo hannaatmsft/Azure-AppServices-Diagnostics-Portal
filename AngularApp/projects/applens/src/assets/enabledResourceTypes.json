@@ -450,6 +450,15 @@
             "versionPrefix": "",
             "azureCommImpactedServicesList": "",
             "searchSuffix": "Azure Arc Appliance"
-        }
+        },
+        {
+            "service": "ResourceService",
+            "resourceType": "Microsoft.Sql/servers",
+            "templateFileName": "AzureSQl",
+            "imgSrc": "assets/img/Azure-SQL-Logo.svc",
+            "versionPrefix": "",
+            "azureCommImpactedServicesList": "",
+            "searchSuffix": "Azure SQL"
+        }  
     ]
 }
