@@ -454,11 +454,11 @@
         {
             "service": "ResourceService",
             "resourceType": "Microsoft.Sql/servers",
-            "templateFileName": "AzureSQl",
-            "imgSrc": "assets/img/Azure-SQL-Logo.svc",
+            "templateFileName": "AzureSqlServer",
+            "imgSrc": "assets/img/Azure-SQL-Server-Logo.svc",
             "versionPrefix": "",
             "azureCommImpactedServicesList": "",
-            "searchSuffix": "Azure SQL"
+            "searchSuffix": "Azure SQL Server"
         }  
     ]
 }
